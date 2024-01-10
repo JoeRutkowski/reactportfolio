@@ -16,7 +16,9 @@ const data = [
 ]
 const Work = () => {
     return (
-        <div>Work</div>
+        <div id='work' classname='max-w-[1040px] n-auto md:pl-20 p4 py-16'>
+            <h1> work </h1>
+        </div>
     )
 }
 
