@@ -1,6 +1,6 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
-import {FaTwitter, FaFacebookF, FaLinkedin, FaInstagram} from 'react-icons-fa';
+import {FaTwitter, FaFacebookF, FaLinkedin, FaInstagram} from 'react-icons/fa';
 const Main =() => {
     return (
         <div id='main'>
